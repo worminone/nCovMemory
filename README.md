@@ -313,7 +313,7 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 我们使用[这个程序](https://gist.github.com/2019ncovmemory/1e4225aa73011cb0d6e544aad1468541)以及[这个插件](https://gofullpage.com/)产生截图。
 
 我们使用[这个网站](https://www.iloveimg.com/crop-image)编辑截图大小。
-
+也可以使用[裁剪网站](https://cropimage.app)编辑截图大小。
 我们使用[archive.is](https://archive.is/), [archive.org](https://archive.org)等产生archive。前者用于微信公众号，后者用于一般网页。
 
 ## 联系
